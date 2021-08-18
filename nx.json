@@ -27,6 +27,12 @@
     ]
   },
   "projects": {
+    "products": {
+      "tags": []
+    },
+    "tasks": {
+      "tags": []
+    },
     "test": {
       "tags": []
     },
